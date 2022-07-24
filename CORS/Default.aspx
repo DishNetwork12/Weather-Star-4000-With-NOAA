@@ -19,7 +19,7 @@
             case "localhost":
             case "192.168.2.98":
             case "24.187.197.234":
-            case "DishNetword12.github.io":
+            case "DishNetwork12.github.io":
                 OkToProcessRequest = true;
                 break;
         }
